@@ -1,3 +1,6 @@
+## Install:
+Run **npm i** or **npm install** to install the required packages.
+
 ## Run:
 
 To run the project run the command **npm run dev**.This command will automatically compile typscript code to javascript and will run index.js present in **_dist_** directory the following command will also prompt nodemon to keep watchin the changes in the directory so, you don't have run **node index.js** again and again.
